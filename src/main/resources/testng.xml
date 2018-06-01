@@ -1,0 +1,15 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="opensource Automation Test Suit">
+	<listeners>
+		<listener class-name="com.util.ExtendReportListener"></listener>
+	</listeners>
+	<test name="opensource">
+		<classes>
+			<class name="com.test.RegrationTest">
+			</class>
+
+		</classes>
+	</test>
+</suite>

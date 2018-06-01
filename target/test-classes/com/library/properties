@@ -1,0 +1,15 @@
+
+###################test data#############
+enterytime =10:30
+enterydate = 07/07/2018
+exittime =14:20
+exitdate = 07/07/2018
+
+##################object repostry##############
+dropdown_id = Lot
+entrytime_id = EntryTime
+enterytimeam_name =EntryTimeAMPM
+enterydate_id =EntryDate
+exittime_id = ExitTime
+exittimepm_xpath =/html/body/form/table/tbody/tr[3]/td[2]/font/input[3]
+livingdate_id =ExitDate
